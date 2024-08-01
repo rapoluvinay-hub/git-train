@@ -1,1 +1,2 @@
-this is creating the step1 in git training
+this is creating the "step1 in git"
+this is creating the "step1 in git"-Step 2
